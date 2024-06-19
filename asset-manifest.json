@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/slowrida-assessment/static/css/main.36ffff30.css",
+    "main.js": "/slowrida-assessment/static/js/main.38fc4d31.js",
+    "static/js/453.128de6d6.chunk.js": "/slowrida-assessment/static/js/453.128de6d6.chunk.js",
+    "index.html": "/slowrida-assessment/index.html",
+    "main.36ffff30.css.map": "/slowrida-assessment/static/css/main.36ffff30.css.map",
+    "main.38fc4d31.js.map": "/slowrida-assessment/static/js/main.38fc4d31.js.map",
+    "453.128de6d6.chunk.js.map": "/slowrida-assessment/static/js/453.128de6d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36ffff30.css",
+    "static/js/main.38fc4d31.js"
+  ]
+}
